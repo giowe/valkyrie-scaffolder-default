@@ -1,6 +1,6 @@
 {
   "name": "valkyrie-scaffolder-default",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Default Valkyrie project scaffolder",
   "main": "index.js",
   "repository": {
