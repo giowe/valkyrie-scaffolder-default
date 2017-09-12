@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "#{{projectName}}",
   "version": "0.0.0",
   "description": "#{{projectDescription}}",
@@ -8,12 +9,8 @@
     "valkyrie",
     "scaffolder"
   ],
-  "author": "Giovanni Bruno",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/giowe/valkyrie-scaffolder-default/issues"
-  },
-  "homepage": "https://github.com/giowe/valkyrie-scaffolder-default#readme",
+  "author": "#{{author}}",
+  "license": "#{{license}}",
   "dependencies": {
     "aws-valkyrie": "^0.8.5"
   }
