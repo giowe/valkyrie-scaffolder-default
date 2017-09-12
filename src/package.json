@@ -1,0 +1,20 @@
+{
+  "name": "#{{projectName}}",
+  "version": "0.0.0",
+  "description": "#{{projectDescription}}",
+  "main": "index.js",
+  "keywords": [
+    "aws",
+    "valkyrie",
+    "scaffolder"
+  ],
+  "author": "Giovanni Bruno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giowe/valkyrie-scaffolder-default/issues"
+  },
+  "homepage": "https://github.com/giowe/valkyrie-scaffolder-default#readme",
+  "dependencies": {
+    "aws-valkyrie": "^0.8.5"
+  }
+}

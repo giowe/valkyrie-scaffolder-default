@@ -1,0 +1,21 @@
+{
+  "name": "valkyrie-scaffolder-default",
+  "version": "1.0.0",
+  "description": "Default Valkyrie project scaffolder",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giowe/valkyrie-scaffolder-default.git"
+  },
+  "keywords": [
+    "aws",
+    "valkyrie",
+    "scaffolder"
+  ],
+  "author": "Giovanni Bruno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giowe/valkyrie-scaffolder-default/issues"
+  },
+  "homepage": "https://github.com/giowe/valkyrie-scaffolder-default#readme"
+}
