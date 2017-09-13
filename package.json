@@ -1,8 +1,8 @@
 {
   "name": "valkyrie-scaffolder-default",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Default Valkyrie project scaffolder",
-  "main": "index.js",
+  "main": "scaffolder.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/giowe/valkyrie-scaffolder-default.git"
