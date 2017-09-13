@@ -2,7 +2,7 @@
   "private": true,
   "name": "#{{projectName}}",
   "version": "0.0.0",
-  "description": "#{{projectDescription}}",
+  "description": "#{{description}}",
   "main": "index.js",
   "keywords": [
     "aws",
