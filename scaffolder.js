@@ -1,12 +1,10 @@
 'use strict';
 
-const notNullValidator = (val) => val !== '';
-
 module.exports = {
+  source: 'src',
   inputs: [
-    { type: 'input', name: 'projectName', message: 'project name:', validate: val => val && !val.contains(' ') },
-    { type: 'input', name: 'description', message: 'description:', validate: notNullValidator },
+    { type: 'input', name: 'description', message: 'description:' },
     { type: 'input', name: 'author', message: 'author:' },
-    { type: 'input', name: 'author', message: 'license:', default: 'MIT' }
+    { type: 'input', name: 'license', message: 'license:', default: 'MIT' }
   ]
 };
