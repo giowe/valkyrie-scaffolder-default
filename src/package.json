@@ -1,16 +1,16 @@
 {
   "private": true,
-  "name": "#{{projectName}}",
+  "name": "{{projectName}}",
   "version": "0.0.0",
-  "description": "#{{description}}",
+  "description": "{{description}}",
   "main": "index.js",
   "keywords": [
     "aws",
     "valkyrie",
     "scaffolder"
   ],
-  "author": "#{{author}}",
-  "license": "#{{license}}",
+  "author": "{{author}}",
+  "license": "{{license}}",
   "dependencies": {
     "aws-valkyrie": "^0.8.5"
   }
