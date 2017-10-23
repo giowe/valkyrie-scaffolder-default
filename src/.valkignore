@@ -1,6 +1,6 @@
 .editorconfig
 .eslint
-.gitignore
+.gitignorerc
 .idea
 .git
 *.md
