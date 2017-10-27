@@ -12,6 +12,6 @@
   "author": "{{author}}",
   "license": "{{license}}",
   "dependencies": {
-    "aws-valkyrie": "^0.8.5"
+    "aws-valkyrie": "^0.8.6"
   }
 }
