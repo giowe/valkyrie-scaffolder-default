@@ -4,11 +4,6 @@
   "version": "0.0.0",
   "description": "{{description}}",
   "main": "index.js",
-  "keywords": [
-    "aws",
-    "valkyrie",
-    "scaffolder"
-  ],
   "author": "{{author}}",
   "license": "{{license}}",
   "dependencies": {
