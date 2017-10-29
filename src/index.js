@@ -7,7 +7,7 @@ const pkg = require('./package.json');
 //body parser middleware; it will become an external module;
 app.use((req, res, next) => {
   try {
-    if (req.get('content-type').toLowerCase.includes('application/json')) {
+    if (req.get('content-type').toLowerCase().includes('application/json')) {
       req.body = JSON.parse(req.body);
     }
   }
